@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    background-image: url("/img/Taieri.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+h1, p{
+    font-family: 'Playfair Display', serif;
+    color: white;
+    vertical-align: middle;
+}
